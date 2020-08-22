@@ -1,2 +1,2 @@
-# JavaScript
-Learning materials for JavaScript
+# Frontend
+Learning materials for Frontend
